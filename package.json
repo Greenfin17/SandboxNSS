@@ -1,0 +1,22 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "Learning sandbox",
+  "main": "index.html",
+  "scripts": {
+    "test": "testsb"
+  },
+  "repository": {
+    "type": "git",
+    "url": "SandboxNSS"
+  },
+  "keywords": [
+    "sandbox",
+    "testing"
+  ],
+  "author": "John Maple",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

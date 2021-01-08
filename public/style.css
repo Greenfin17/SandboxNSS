@@ -1,0 +1,20 @@
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+nav {
+  background-color: #775533;
+  text-align: center;
+}
+
+ul {
+  margin: 0 auto;
+}
+
+li {
+  list-style-type: none;
+  padding: 10px;
+  display: inline-block;
+}
+
